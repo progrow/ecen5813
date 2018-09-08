@@ -3,6 +3,8 @@
 ### This is a free library to be used for teaching ECEN5813.
 
 ### Class:  ECEN5813 - Principles of Embedded Software
+### Current Year: 2018
+### Current Semester: Fall
 
 **Repo Contents**
 
