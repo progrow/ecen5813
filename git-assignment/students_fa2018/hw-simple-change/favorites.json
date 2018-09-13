@@ -31,7 +31,7 @@
       "movie": "The pursuit of happyness",
       "show": "Suits",
       "game": "Pubg"
-    }
+    },
     "vash3665": {
       "movie": "Interstellar",
       "show": "The Big Bang Theory",
@@ -43,7 +43,12 @@
       "show": "Friends",
       "game": "Cricket"
     },
-
+   
+    "issa8525": {
+    "movie": "Deadpool",
+    "show": "Supernatural",
+    "game": "Basketball"
+    },
 >>>>>>> 7496307d5b3df73eb1f3529cc063277c28c21d30
   }
 }
