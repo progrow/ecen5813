@@ -10,10 +10,40 @@
         "show": "The Great British Baking Show",
         "game": "Skyrim"
     },
+<<<<<<< HEAD
     "pome8050": {
 	"movie": "Minions",
 	"show": "Prison Break",
 	"game": "Mass Effect"
     },
+=======
+    "yash1595": {
+        "movie": "The Last Samurai",
+        "show": "The Office",
+        "game": "Prince of Persia"
+    },
+    "dodo1237": {
+        "movie": "Jurassic Park",
+        "show": "The Expanse",
+        "game": "Uncharted 4"
+    },
+    "omra5318": {
+      "movie": "The pursuit of happyness",
+      "show": "Suits",
+      "game": "Pubg"
+    }
+    "vash3665": {
+      "movie": "Interstellar",
+      "show": "The Big Bang Theory",
+      "game": "CS"
+    },
+ 
+    "puba2016": {
+      "movie": "The Godfather",
+      "show": "Friends",
+      "game": "Cricket"
+    },
+
+>>>>>>> 7496307d5b3df73eb1f3529cc063277c28c21d30
   }
 }
