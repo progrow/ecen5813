@@ -43,12 +43,24 @@
       "show": "Friends",
       "game": "Cricket"
     },
+<<<<<<< HEAD
    
     "issa8525": {
     "movie": "Deadpool",
     "show": "Supernatural",
     "game": "Basketball"
     },
+=======
+<<<<<<< HEAD
+    "nake6459":{
+      "movie":"Intersteller",
+      "show":"Sherlock",
+      "game":"CS"
+    }
+=======
+
+>>>>>>> cd29c524b457a9b39c014368409fcbf8a1234056
 >>>>>>> 7496307d5b3df73eb1f3529cc063277c28c21d30
+>>>>>>> 36131c73fa36a4e5e7eece24e12e9cc63266867e
   }
 }
