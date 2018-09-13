@@ -10,6 +10,13 @@
         "show": "The Great British Baking Show",
         "game": "Skyrim"
     },
+<<<<<<< HEAD
+    "pome8050": {
+	"movie": "Minions",
+	"show": "Prison Break",
+	"game": "Mass Effect"
+    },
+=======
     "yash1595": {
         "movie": "The Last Samurai",
         "show": "The Office",
@@ -36,10 +43,15 @@
       "show": "Friends",
       "game": "Cricket"
     },
+<<<<<<< HEAD
     "nake6459":{
       "movie":"Intersteller",
       "show":"Sherlock",
       "game":"CS"
     }
+=======
+
+>>>>>>> 7496307d5b3df73eb1f3529cc063277c28c21d30
+>>>>>>> 36131c73fa36a4e5e7eece24e12e9cc63266867e
   }
 }

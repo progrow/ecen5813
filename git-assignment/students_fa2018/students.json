@@ -2,10 +2,18 @@
   "kegr4640":{"file":"kegr4640.json","name":"Kevin Gross"},
   "soga2366":{"file":"soga2366.json","name":"Sorabh Gandhi"},
   "tyma3817":{"file":"tyma3817.json","name":"Tyler Maydew"},
+<<<<<<< HEAD
+  "pome8050":{"file":"pome8050.json","name":"Poorn-Mehta"},
+=======
   "yash1595":{"file":"yash1595.json","name":"Yash Gupte"},
   "dodo1237":{"file":"dodo1237.json","name":"Dominic Doty"},
   "omra5318":{"file":"omra5318.json","name":"Om Raheja"},
   "vash3665":{"file":"vash3665.json","name":"Vatsal Sheth"},
   "puba2016":{"file":"puba2016.json","name":"Puneet Bansal"},
+<<<<<<< HEAD
   "nake6459":{"file":"nake6459.json","name":"Nachiket Kelkar"}
+=======
+
+>>>>>>> 7496307d5b3df73eb1f3529cc063277c28c21d30
+>>>>>>> 36131c73fa36a4e5e7eece24e12e9cc63266867e
 }
