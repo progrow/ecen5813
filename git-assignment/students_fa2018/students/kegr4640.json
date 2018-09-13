@@ -1,8 +1,8 @@
 {
-  "SuperHeroName":"Chef Kef",
-  "SuperPower":"Delicious breakfast",
-  "Cape":true,
-  "CapeColor":"White",
+  "SuperHeroName":"The Hulk",
+  "SuperPower":"Smash 'n' Grab",
+  "Cape":True,
+  "CapeColor":"Transparent",
   "Sidekick":false,
-  "SecretIdentiy":"Kevin Gross"
+  "SecretIdentiy":"Sumo"
 }
