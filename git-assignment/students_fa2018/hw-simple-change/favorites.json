@@ -106,6 +106,12 @@
         "movie": "Green Mile",
         "show": "Stranger Things",
         "game": "Tennis"
-    }
+    },
+	"same4977": {
+        "movie": "Harry Potter",
+        "show": "Game of Thrones",
+        "game": "Cricket"
+    },
+	
 } 
 
