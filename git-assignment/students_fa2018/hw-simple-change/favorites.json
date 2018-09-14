@@ -1,9 +1,105 @@
 {
-  { 
     "kegr4640": {
         "movie": "Eternal Sunshine of the Spotless Mind",
         "show": "Austin City Limits",
         "game": "Asteroids"
+    },
+    "tyma3817": {
+        "movie": "Forgetting Sarah Marshall",
+        "show": "The Great British Baking Show",
+        "game": "Skyrim"
+    },
+    "pome8050": {
+	"movie": "Minions",
+	"show": "Prison Break",
+	"game": "Mass Effect"
+    },
+    "yash1595": {
+        "movie": "The Last Samurai",
+        "show": "The Office",
+        "game": "Prince of Persia"
+    },
+    "dodo1237": {
+        "movie": "Jurassic Park",
+        "show": "The Expanse",
+        "game": "Uncharted 4"
+    },
+    "omra5318": {
+      "movie": "The pursuit of happyness",
+      "show": "Suits",
+      "game": "Pubg"
+    },
+    "vash3665": {
+      "movie": "Interstellar",
+      "show": "The Big Bang Theory",
+      "game": "CS"
+    },
+ 
+    "puba2016": {
+      "movie": "The Godfather",
+      "show": "Friends",
+      "game": "Cricket"
+    },
+    "issa8525": {
+    "movie": "Deadpool",
+    "show": "Supernatural",
+    "game": "Basketball"
+    },
+    "nake6459":{
+      "movie":"Intersteller",
+      "show":"Sherlock",
+      "game":"CS"
+    },
+
+    "saja3209":{
+      "movie":"The Dark Knight",
+      "show":"Suits",
+      "game":"Assassin's Creed"
+    },
+
+
+    "tach9916":{
+      "movie":"Jobs",
+      "show":"House of Cards",
+      "game":"Counter Strike"
+    },
+	"vikr2546":{
+      "movie":"Guardians of the Galaxy",
+      "show":"The Expanse",
+      "game":"Settlers of Catan"
+	},
+    "saka7049":{
+	"movie":"Shawshank Redemption",
+	"show":"Suits",
+	"game":"Fifa"
+    },
+    "stxa1234":{
+        "movie": "Titanic",
+        "show": "Mr.Bean",
+        "game": "Swimming"
+    },
+
+
+
+
+
+    "swarupade": {
+         "movie": "The Royal Tenenbaums",
+         "show": "West World",
+         "game": "pinball"
+    },
+
+	
+	"demi1671": {
+        "movie": "The Dark Knight",
+        "show": "The Offie",
+        "game": "Fifa"
+    },
+
+    "soga2366": {
+	    "movie": "Iron Man",
+	    "show": "Suits",
+	    "game": "Cricket"
     }
-  },
-}
+} 
+
