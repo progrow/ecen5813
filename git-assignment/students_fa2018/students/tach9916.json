@@ -1,8 +1,8 @@
 {
-  "SuperHeroName":"Doctor Strange",
-  "SuperPower":"Spatial and Temporial Manipulation",
+  "SuperHeroName":"Master Strange",
+  "SuperPower":"Spatial and Temporal Manipulation",
   "Cape":true,
-  "CapeColor":"RedWhit",
+  "CapeColor":"Red",
   "Sidekick":false,
   "SecretIdentity":"Tanmay Chaturvedi"
 }
