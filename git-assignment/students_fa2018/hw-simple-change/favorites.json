@@ -50,9 +50,43 @@
       "show":"Sherlock",
       "game":"CS"
     },
+
     "saja3209":{
       "movie":"The Dark Knight",
       "show":"Suits",
       "game":"Assassin's Creed"
     },
-  }
+
+
+    "tach9916":{
+      "movie":"Jobs",
+      "show":"House of Cards",
+      "game":"Counter Strike"
+    },
+	"vikr2546":{
+      "movie":"Guardians of the Galaxy",
+      "show":"The Expanse",
+      "game":"Settlers of Catan"
+	},
+    "saka7049":{
+	"movie":"Shawshank Redemption",
+	"show":"Suits",
+	"game":"Fifa"
+    },
+    "stxa1234":{
+        "movie": "Titanic",
+        "show": "Mr.Bean",
+        "game": "Swimming"
+    },
+
+
+
+
+
+    "swarupade": {
+         "movie": "The Royal Tenenbaums",
+         "show": "West World",
+         "game": "pinball"
+    },
+} 
+
