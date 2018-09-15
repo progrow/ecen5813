@@ -2,5 +2,7 @@
 	"SuperHeroName": "Flash",
 	"SuperPower": "Speed",
 	"Cape": true,
-	"CapeColor": "Red"
+	"CapeColor": "Red",
+	"Sidekick": false,
+	"Secret Identity": "Sorabh Gandhi"
 }

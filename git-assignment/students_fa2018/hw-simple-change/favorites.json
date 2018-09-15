@@ -1,21 +1,15 @@
-<<<<<<< HEAD
-"kegr4640": {
-=======
 {
     "kegr4640": {
->>>>>>> 6acb3210478920b2763e9109d42d487ac39efb13
         "movie": "Eternal Sunshine of the Spotless Mind",
         "show": "Austin City Limits",
         "game": "Asteroids"
     },
-<<<<<<< HEAD
     {
 "suho6289": {
 		"movie":"Shawshank Redemption",
 		"show":"Lost In Space",
 		"game":"PUBG"
-    }
-=======
+    },
     "tyma3817": {
         "movie": "Forgetting Sarah Marshall",
         "show": "The Great British Baking Show",
@@ -168,6 +162,7 @@
 		"movie" : "Saving the Private Ryan",
 		"show" : "Game of Thrones",
 		"fame" : "NFS The Run"
+<<<<<<< HEAD
 	}
 	 "ruma2254": {
                 "movie" : "Daal Dhokdi",
@@ -176,5 +171,25 @@
 	}
 
  } 
+=======
+	},
+	"smbh4256": {
+      "movie": "Pretty Woman",
+      "show": "Terra Nova",
+      "game": "Football"
+  },
 
->>>>>>> 6acb3210478920b2763e9109d42d487ac39efb13
+  "rizo879D": {
+     "movie": "Descipacle Me",
+     "show": "Bob's Burgers",
+     "game": "Monopoly"
+  }
+    "vafa5035": {
+        "movie": "The Weatherman",
+        "show": "Castle Rock",
+        "game": "Tic-Tac-Toe"
+    },
+
+} 
+>>>>>>> 93dcf5c10ccfe372d6dcaf41d9449bf576101a94
+
