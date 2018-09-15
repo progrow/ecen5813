@@ -1,0 +1,8 @@
+{
+	"SuperHeroName":"Lady Quick",
+	"SuperPower":"Teleportation",
+	"Cape":true,
+	"CapeColor":"Green",
+	"Sidekick":false,
+	"SecretIdentity":"Janet"
+}
