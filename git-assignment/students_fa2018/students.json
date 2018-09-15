@@ -30,6 +30,11 @@
   "mora8778":{"file":"mora8778.json","name":"Mohit Rane"},
   "hase9539":{"file":"hase9539.json","name":"Hardik Senjaliya"},
   "lago2298":{"file":"lago2298.json","name":"Laura Gong"},
+<<<<<<< HEAD
   "smbh4256":{"file":"smbh4256.json","name":"Smitha Bhaskar"}
   "sedu5731":{"file":"sedu5731.json","name":"Sean Duffy"},
+=======
+  "smbh4256":{"file":"smbh4256.json","name":"Smitha Bhaskar"},
+  "baqu1889":{"file":"baqu1889.json","name":"Roberto Baquerizo"}
+>>>>>>> 10ae73e69d20eec73d5da594346ee3bac499805a
 }
