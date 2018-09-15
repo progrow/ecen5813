@@ -3,6 +3,6 @@
 	"SuperPower":"Teleportation",
 	"Cape":true,
 	"CapeColor":"Green",
-	"Sidekick":false,
+	"Sidekick":true,
 	"SecretIdentity":"Janet"
 }
