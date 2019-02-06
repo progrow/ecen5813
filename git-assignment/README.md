@@ -3,14 +3,14 @@
 ### This is a free library to be used for teaching ECEN5813.
 
 ### Class:  ECEN5813 - Principles of Embedded Software
-### Current Year: 2018
-### Current Semester: Fall
+### Current Year: 2019
+### Current Semester: Spring
 
 **Adding yourself to the student files**
 
 **Steps**
 
-1) Modify the students.json file in the ./git-assignment/students-fall2018 directory of this repo. You will need to add a unique username key and a couple of characteristics. When you add a new line, put a comma on the previous line before adding to the bottom. See example below.
+1) Modify the students.json file in the ./git-assignment/students-sp19 directory of this repo. You will need to add a unique username key and a couple of characteristics. When you add a new line, put a comma on the previous line before adding to the bottom. See example below.
 
   *format:*
   ```

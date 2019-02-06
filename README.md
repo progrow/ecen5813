@@ -3,8 +3,8 @@
 ### This is a free library to be used for teaching ECEN5813.
 
 ### Class:  ECEN5813 - Principles of Embedded Software
-### Current Year: 2018
-### Current Semester: Fall
+### Current Year: 2019
+### Current Semester: Spring
 
 **Repo Contents**
 
@@ -12,9 +12,8 @@ There are subfolders in this repo that contain tutorial help as well as assignme
 
 **Adding yourself to the student files**
 
-Do not start this git assignment until you have been given the
-provided homework.
+Do not start this git assignment until you have been given the provided homework.
 
 **Assignments**
 
-Change Directory in the git-assignment folder and complete the steps listed in the README files.
+Change Directory to the git-assignment folder and complete the steps listed in the README files.
