@@ -6,5 +6,11 @@
   "rabe1477":{"file":"rabe1477.json","name":"Ranger Beguelin"},
   "jobl9833":{"file":"jobl9833.json","name": "Ayden Blotnick"},
   "male2376":{"file":"male2376.json","name":"Martin Lennartz"},
+<<<<<<< HEAD
   "srsh9018":{"file":"srsh9018.json","name":"Srinath Shanmuganadhan"},
+=======
+  "aydh0468":{"file":"aydh0468.json","name":"Ayush Dhoot"},
+  "isye2214":{"file":"isye2214.json","name":"Ismail Yesildirek"},
+  "loca2266":{"file":"loca2266.json","name":"Joey Carnicle"}
+>>>>>>> 22162dc652739c7640bf35d3917b2591dcd2e07a
 }
