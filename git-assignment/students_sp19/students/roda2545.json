@@ -1,6 +1,14 @@
 {
+<<<<<<< HEAD
      "SuperHeroName":"Brohan",
      "SuperPower":"Flying",
      "Cape":true,
      "CapeColor":"Red",
 }
+=======
+   "SuperHeroName": "Brohan",
+   "SuperPower": "Flight",
+   "Cape": true,
+   "CapeColor": "Red"
+ }
+>>>>>>> 655db63878616dae1172e96029f8fcf64ad6d421
